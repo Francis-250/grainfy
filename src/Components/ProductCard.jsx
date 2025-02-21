@@ -3,7 +3,7 @@ import { products } from "../assets/Assets";
 
 const ProductCard = () => {
   return (
-    <div className="my-10 ">
+    <div className="my-10">
       <div className="text-center py-8 text-3xl">
         <div className="inline-flex gap-2 items-center mb-3">
           <p className="text-gray-500">
