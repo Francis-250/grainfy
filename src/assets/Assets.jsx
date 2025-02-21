@@ -27,6 +27,14 @@ export const menu = [
   { link: "/contact", label: "Contact" },
 ];
 
+export const heroContent = [
+  {
+    header: "FRUIT FRESH",
+    title: "Vegetable 100% Organic",
+    subTitle: "Free Pickup and Delivery Available",
+  },
+];
+
 export const products = [
   {
     id: 1,
